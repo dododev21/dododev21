@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋  Hi there 
 
 ### 💻 Full Stack Developer
 
@@ -9,14 +9,24 @@
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer
-* 🎨 UI/UX Design 경험을 바탕으로 사용자 중심의 웹 서비스를 개발합니다.
-* 🌱 **React + TypeScript + Java + Spring Boot + MySQL**을 중심으로 공부하고 있습니다.
-* 🔐 REST API, JWT 기반 인증/인가 및 데이터베이스 연동을 경험하고 있습니다.
-* ☁️ AWS 기반 클라우드 환경과 CI/CD에도 관심이 있습니다.
-* 🤖 AI와 데이터 기술을 웹 개발에 활용하는 방법을 공부하고 있습니다.
+💻 Full Stack Developer
 
----
+Building scalable web services from UI to API and Database.
+
+UI/UX에 대한 이해를 바탕으로 사용자 경험을 고려한 인터페이스를 설계하고,
+Frontend · Backend · Database · Cloud까지 연결하는 웹 서비스를 개발합니다.
+
+🚀 About Me
+💻 Full Stack Developer with a strong focus on modern web application development <br>
+🎨 UI/UX Design 경험을 바탕으로 사용성과 개발 효율을 함께 고려한 UI를 구현합니다. <br>
+⚛️ React & TypeScript 기반의 컴포넌트 중심 프론트엔드 개발 <br>
+☕ Java & Spring Boot 기반의 RESTful API 및 서버 애플리케이션 개발 <br>
+🔐 JWT 기반 인증/인가 및 사용자 인증 시스템 구현 경험 <br>
+🗄️ MySQL 데이터 모델링 및 서버와의 데이터 연동 <br>
+☁️ AWS · Docker · GitHub Actions 기반의 클라우드 및 CI/CD 환경 구성 경험 <br>
+🔄 Git을 활용한 Branch · Commit · Pull Request 기반 협업 개발 <br>
+
+<hr>
 
 ## 🛠️ Tech Stack
 
@@ -51,82 +61,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
+### 🎨 Design & UI/UX
 
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,sass" />
-</p>
-
-**HTML5 · CSS3 · JavaScript · TypeScript · React · Vite · SCSS**
-
----
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python" />
-</p>
-
-**Java · Spring Boot · Python · REST API · JWT**
-
----
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-**MySQL · JDBC**
-
----
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github" />
-</p>
-
-**AWS · Docker · GitHub Actions · Git · GitHub**
-
----
-
-### 📦 Tools & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,npm" />
-</p>
-
-**VS Code · IntelliJ IDEA · Figma · npm**
-
----
-
-### 🚀 Core Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,java,spring,mysql,aws,docker" />
-</p>
-
-<p align="center">
-  <strong>React · TypeScript · Java · Spring Boot · MySQL · AWS · Docker</strong>
-</p>
-
-
-
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ---
 
 ## 📫 Contact
 
 **GitHub**
-https://github.com/dododev21
+https://github.com/dodosdev
 
 ---
 
 ### 💡 "Build it. Break it. Learn it. Build it better."
 
-꾸준히 배우고, 직접 만들고, 문제를 해결하며 성장하는 개발자가 되겠습니다. 🚀
+

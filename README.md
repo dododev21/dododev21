@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Dodo
+# 👋 Hi there!
 
 ### 💻 Full Stack Developer
 
-> **Building scalable web services from UI to API and Database.**
+> **Frontend × Backend × Database × Cloud**  
+> Building user-focused web services across the full development stack.
 
 UI/UX에 대한 이해를 바탕으로 사용자 경험을 고려한 인터페이스를 설계하고,
 **Frontend · Backend · Database · Cloud**까지 연결하는 웹 서비스를 개발합니다.
@@ -116,98 +117,6 @@ UI/UX에 대한 이해를 바탕으로 사용자 경험을 고려한 인터페�
 
 `Figma` · `VS Code` · `IntelliJ IDEA` · `npm`
 
----
-
-## 📂 Featured Projects
-
-### 🎓 UNI:VERSE
-
-**University Community Platform**
-
-`React` `TypeScript` `Java` `Spring Boot` `MySQL` `JWT`
-
-> University students can communicate, share information and participate in a school-based community.
-
-**Backend**
-
-* User registration and authentication
-* JWT-based authentication
-* School email verification
-* User account management
-* REST API implementation
-* MySQL database integration
-
-**Development**
-
-* Git Branch-based development
-* Pull Request workflow
-* API-based Frontend / Backend integration
-* Database schema-based backend implementation
-
----
-
-### 🍎 Apple Store Clone
-
-**E-Commerce Web Application**
-
-`React` `TypeScript` `SCSS` `Zustand` `Java` `Spring Boot` `MySQL`
-
-* Responsive e-commerce UI
-* Component-based React architecture
-* Product data management
-* Client-side state management
-* REST API integration
-* MySQL database integration
-
----
-
-## 🔧 Development Philosophy
-
-```text
-User Experience
-      ↓
-   Frontend
-      ↓
-    REST API
-      ↓
-    Backend
-      ↓
-   Database
-      ↓
-Cloud / Infrastructure
-```
-
-I focus on understanding the entire flow of a web service rather than working within a single layer.
-
-**Design → Development → API → Database → Deployment**
-
-Understanding how each layer connects allows me to build services with both **user experience and technical architecture** in mind.
-
----
-
-## 📚 Current Focus
-
-```text
-Full Stack Development
-├── Frontend
-│   ├── React
-│   ├── TypeScript
-│   └── State Management
-│
-├── Backend
-│   ├── Java
-│   ├── Spring Boot
-│   ├── REST API
-│   └── JWT
-│
-├── Database
-│   └── MySQL
-│
-└── Cloud & DevOps
-    ├── AWS
-    ├── Docker
-    └── GitHub Actions
-```
 
 ---
 
